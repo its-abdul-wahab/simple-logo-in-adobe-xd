@@ -1,4 +1,4 @@
-# simple-logo-ina-dobe-xd
+# simple-logo-in-adobe-xd
 https://youtu.be/OTvnpFu4DG8
 
 <img src='https://github.com/its-abdul-wahab/simple-logo-in-adobe-xd/blob/master/How%20to%20Create%20Simple%20Logo%20with%20Rotation%20Animation%20in%20Adobe%20XD%20Weekly%20Design%20Tutorial%20.png'>
